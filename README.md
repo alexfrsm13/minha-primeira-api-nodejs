@@ -93,7 +93,7 @@ O desenvolvimento deste projeto foi desafiador e permitiu compreender como frame
 
 Feito com 💜 por **Alex**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=alex-fernando-0542aa279)](alex-fernando-0542aa279)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-fernando-0542aa279/)]([alex-fernando-0542aa279](https://www.linkedin.com/in/alex-fernando-0542aa279/))
 
 ## 📝 Licença
 
