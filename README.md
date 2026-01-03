@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Formação Node.js" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/nodejs/node-icon.svg" width="100px" />
+</p>
+
 # 🚀 Primeira API com Node.js
 
 > Projeto desenvolvido com o objetivo de compreender profundamente o funcionamento do protocolo HTTP e do ecossistema Node.js **sem a utilização de frameworks** (como Express ou NestJS).
